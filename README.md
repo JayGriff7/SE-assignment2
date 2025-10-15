@@ -21,13 +21,21 @@ cd SE-assignment2
 
 Below is a screenshot of the program running successfully:
 
-![Program Output](output.png)
+![Program Output](newoutput.png)
 
 ## How to Run
+
+
+### Python
+```bash
+python3 hello.py   #will prompt: "Please enter your name:"
+```
 
 ### Python
 
 python3 hello.py   #will prompt: "Please enter your name:"
+
+
 
 When you run the program, it will prompt you to enter your name:
 Please enter your name:
