@@ -23,9 +23,39 @@ Below is a screenshot of the program running successfully:
 
 ![Program Output](output.png)
 
-## How to Run:
+## How to Run
 
-### Python Version
+### Python
 
-python3 hello.py
+python3 hello.py   #will prompt: "Please enter your name:"
 
+When you run the program, it will prompt you to enter your name:
+Please enter your name:
+
+After entering your name, it will respond with a personalized message such as:
+
+Hello, Jalen!
+Hi! Jalen
+
+If you press Enter without typing anything, it will automatically use a default name ("Jalen") and still print the greetings.
+
+
+## Branching & Workflow
+
+Feature branches created: feature-1, feature-2, feature-user-input
+
+Pull requests used to merge new features into main
+Merge conflicts simulated and resolved manually in Part 5
+
+## Issues
+
+Issue #1: Improve README with screenshot and run instructions (Closed)
+Issue #2: Add user input feature to personalize greeting (Closed)
+
+## Contributors
+
+Jalen Griffin (@JayGriff7)
+
+## License
+
+This project was created for educational purposes as part of CINS 5318 - Software Engineering (Fall 2025).
