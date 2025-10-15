@@ -1,11 +1,31 @@
 # SE-assignment2
 
 ## Overview
-This was a simple program that prints “Hello, World!” and adds a personalized greeting using my name.
+This project is a simple program that prints **"Hello, World!"** and 
+adds a personalized greeting using my name.  
+
+It was created as part of the *Software Engineering Assignment #2* to demonstrate
+GitHub version control features including: commits, branches, pull requests, 
+conflict resolution, and documentation.
 
 ## Installation
+To download this repository and run the program locally, use the following commands:
+
 ```bash
-# clone
+# Clone the repository
 git clone https://github.com/JayGriff7/SE-assignment2.git
 cd SE-assignment2
+```
+
+## Example Output
+
+Below is a screenshot of the program running successfully:
+
+![Program Output](output.png)
+
+## How to Run:
+
+### Python Version
+
+python3 hello.py
 
