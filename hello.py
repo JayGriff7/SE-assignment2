@@ -1,2 +1,2 @@
-print("Hello, World! (from main after branch)")
+print("Hello, World! (merged)")
 print("Hi! Jalen!")
