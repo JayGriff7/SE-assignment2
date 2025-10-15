@@ -1,2 +1,2 @@
-print("Hello, World! (from feature-2)")
+print("Hello, World! (merged)")
 print("Hi! Jalen!")
