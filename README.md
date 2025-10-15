@@ -23,9 +23,11 @@ Below is a screenshot of the program running successfully:
 
 ![Program Output](output.png)
 
-## How to Run:
+## How to Run
 
-### Python Version
 
-python3 hello.py
+### Python
+
+python3 hello.py   #will prompt: "Please enter your name:"
+
 
